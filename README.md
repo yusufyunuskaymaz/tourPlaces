@@ -2,23 +2,23 @@
 
 
 
-### At the end of the project, i will have covered these topics;
+### I learned these;
 
-🛠 Props and State Logic
+🎯 Props and State Logic
 
-🛠 React Hooks 
+🎯 React Hooks 
  
-🛠 React Props
+🎯 React Props
 
-🛠 Manipulatation Data
+🎯 Manipulatation Data
 
-🛠 React Router Pages
+🎯 React Router Pages
 
-🛠 3rd Part Libraries 
+🎯 3rd Part Libraries 
 
-🛠 Media Query 
+🎯 Media Query 
 
-🛠 Deployment with Github Pages
+🎯 Deployment with Vercel
 
 
 ### At the end of the project, i will be able to;
@@ -27,7 +27,6 @@
 
 ✅ use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-### Kullanılan Paketler
 
 
 ## Available Scripts
